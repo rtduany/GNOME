@@ -1,0 +1,33 @@
+.container{
+	background-color:gainsboro;
+}
+#header{
+	background-color: black;
+	height: auto;
+	margin-bottom: 15px;
+}
+#header-txt{
+	height: 120px;
+}
+.h1-color{
+	color: yellow;
+	margin-left: 20px;
+	margin-top: 40px;
+	font-size: 50px;
+	font-family: arial, sans-serif;
+}
+#p-color{
+	text-align: right;
+	color: darkgray;
+	margin-right: 10px;
+	margin-top: 65px;
+}
+.white{
+	color: white
+}
+#second-child{
+	background-image: url(psd2html/e1/assets/big_img.jpg);
+	height:560px;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
