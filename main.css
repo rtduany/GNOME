@@ -63,7 +63,12 @@
 #sixth-child{
 	background-color: white;
 	height:325px;
-	margin-bottom: 15px;
+	margin-bottom: 30px;
+}
+#seventh-child{
+	background-color: greenyellow;
+	height:200px;
+	margin-bottom: 30px;
 }
 .ctr-text{
 	text-align: center;
