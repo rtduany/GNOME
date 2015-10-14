@@ -30,10 +30,12 @@
 	height:560px;
 	background-size: cover;
 	background-repeat: no-repeat;
+	margin-bottom: 15px;
 }
 #third-child{
 	background-color: white;
-	height:500px;
+	height:400px;
+	margin-bottom: 15px;
 }
 .lorem{
 	font-size: 25px;
