@@ -34,9 +34,19 @@
 }
 #third-child{
 	background-color: white;
-	height:400px;
+	height:325px;
 	margin-bottom: 15px;
 }
 .lorem{
 	font-size: 25px;
+}
+#detailsbutton{
+	width: 110px;
+	height: 40px;
+	color: white;
+	background-color:black;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 205px;
+	text-align: center;
+	padding: 5px;
 }
