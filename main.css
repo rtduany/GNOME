@@ -31,3 +31,10 @@
 	background-size: cover;
 	background-repeat: no-repeat;
 }
+#third-child{
+	background-color: white;
+	height:500px;
+}
+.lorem{
+	font-size: 25px;
+}
