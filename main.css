@@ -4,6 +4,7 @@
 	border-right:1px solid black;
 	border-bottom:1px solid black;
 	border-top:1px solid black;
+	max-width: 50%;
 }
 #header{
 	background-color: black;
@@ -71,6 +72,11 @@
 }
 #seventh-child{
 	background-color: greenyellow;
+	height:160px;
+	margin-bottom: 30px;
+}
+#eighth-child{
+	background-color: white;
 	height:160px;
 	margin-bottom: 30px;
 }
