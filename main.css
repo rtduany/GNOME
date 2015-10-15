@@ -81,9 +81,11 @@
 	margin-bottom: 30px;
 }
 #ninth-child{
-	background-color: white;
+	background-color: black;
 	height:200px;
 	margin-bottom: 30px;
+	color: yellow;
+	text-align: center;
 }
 .ctr-text{
 	text-align: center;
