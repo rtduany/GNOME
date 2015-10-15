@@ -85,6 +85,8 @@
 	height:200px;
 	margin-bottom: 30px;
 	color: yellow;
+	display: flex;
+	align-items: center;
 	text-align: center;
 }
 .ctr-text{
