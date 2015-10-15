@@ -77,7 +77,12 @@
 }
 #eighth-child{
 	background-color: white;
-	height:160px;
+	height:200px;
+	margin-bottom: 30px;
+}
+#ninth-child{
+	background-color: white;
+	height:200px;
 	margin-bottom: 30px;
 }
 .ctr-text{
