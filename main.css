@@ -1,5 +1,9 @@
 .container{
 	background-color:gainsboro;
+	border-left: 1px solid black;
+	border-right:1px solid black;
+	border-bottom:1px solid black;
+	border-top:1px solid black;
 }
 #header{
 	background-color: black;
@@ -67,7 +71,7 @@
 }
 #seventh-child{
 	background-color: greenyellow;
-	height:200px;
+	height:160px;
 	margin-bottom: 30px;
 }
 .ctr-text{
