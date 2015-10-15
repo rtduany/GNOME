@@ -39,11 +39,11 @@
 }
 #third-child{
 	background-color: white;
-	height:325px;
+	height:280px;
 	margin-bottom: 15px;
 }
 .lorem{
-	font-size: 25px;
+	font-size: 15px;
 }
 #detailsbutton{
 	width: 110px;
@@ -83,7 +83,7 @@
 #ninth-child{
 	background-color: black;
 	height:200px;
-	margin-bottom: 30px;
+	margin-bottom: 100px;
 	color: yellow;
 	display: flex;
 	align-items: center;
